@@ -6,4 +6,17 @@ Project Description: Soccer Heads
 For the final project, I am planning to develop a game. The game is Soccer Heads.
 It is a soccer game with just two players who have big heads and just one foot.
 The players can jump, kick and move forward and backwards.
+The game will run for one minute and the player with the most goals in that time wins.
+The game will have two modes: a 1vs1 and against the AI
 
+The libraries that will be used to make the game include but are not limited to:
+Pygame
+Math
+Random
+AI (easyAI or anyother library which suits the game)
+
+By November 25 (first milestone) I intend to make the simple 1vs1 mode for the game
+
+By December 6 (second milestone) I will finish implementing the AI mode of the game and 
+add some extra features such as in game speed boosters, change in player size, change of goal size, 
+addition of sound effects.
