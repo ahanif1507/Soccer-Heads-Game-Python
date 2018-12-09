@@ -7,7 +7,6 @@ HEIGHT = 418
 FPS = 60
 FONT_NAME = "consolas"
 
-
 # player settings
 player1_fwd_acc = -0.4
 player1_bkd_acc = 0.3
