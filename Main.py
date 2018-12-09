@@ -290,7 +290,6 @@ class Game:
                 if event.type == pygame.KEYUP:
                     self.start_screen()
                     waiting = False
-
     
 game = Game()
 game.start_screen()
