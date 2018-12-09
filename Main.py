@@ -232,6 +232,7 @@ class Game:
             self.draw_text("Press any key to Continue", 36, WHITE, WIDTH / 2, HEIGHT * 3 / 4)
             
         pygame.display.flip()
+        pygame.time.delay(2000)
         self.Continue()
 
     def draw_text(self, text, size, color, x, y):
